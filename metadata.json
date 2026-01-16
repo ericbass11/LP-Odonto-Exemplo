@@ -1,0 +1,7 @@
+{
+  "name": "Odonto Premium Landing Page",
+  "description": "A premium dental clinic landing page featuring digital dentistry services, expert leadership, and modern aesthetics.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
